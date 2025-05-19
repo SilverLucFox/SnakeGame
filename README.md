@@ -6,7 +6,7 @@ This is a feature-rich Snake game built using **C++** and **OpenGL (GLUT)**. The
 
 - Classic Snake game mechanics
 - Dynamic **rock spawning** as obstacles
-- Color-coded **levels**
+- Color-coded **levels** eat your tail to increase a level
 - Real-time **score and time tracking**
 - **Leaderboard system** that saves top players to a `leader.txt` file
 - Fun **facts** about snakes between levels
@@ -87,7 +87,7 @@ I *do* plan to clean and improve the structure—**maybe in 5 to 10 years if I f
 ## 📌 Future Improvements (Ideas)
 
 - Add support for music and sound effects
-- Cross-platform compatibility (remove `windows.h`)
+- Cross-platform compatibility (remove `windows.h`) no worries will I make sure it unplayable on mac 😛
 - GUI menus for game settings
 - Multiplayer mode or AI snakes
 
